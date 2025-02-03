@@ -1,6 +1,6 @@
-- 👋 Hi, I’m 건 우
-- 🤑 Bug bounty & Python developer
-- 🌱 1 years old cyber security learn
+- 👋 Hi, I’m CyberMAD
+- 🤑 Join a DoxGroup https://rvlt.gg/3t7BtXnD
+- 🤑 Bug bounty & Python
 - Korean Orthodox ☦️🇰🇷
 
 <!---
